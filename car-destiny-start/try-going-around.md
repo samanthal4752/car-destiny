@@ -3,4 +3,4 @@ You crash with the other driver and abandon the scene and your car. You have to 
 What do you do? 
 
 [Stay at work](stay-at-work.md)  
-[Run out before he can see you](run-away-md)
+[Run out before he can see you](run-away.md)
