@@ -1,3 +1,4 @@
- You failed to leave and your boss caught you. As he was leaving, he keyed your car
+ You failed to leave and your boss caught you. As he was leaving, he keyed your car. 
 
-[Go back to the Beginning](car-destiny.md)
+[Sue him](sue-him.md)  
+[Do nothing](do-nothing.md)
