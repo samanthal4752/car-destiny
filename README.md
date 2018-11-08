@@ -2,6 +2,6 @@ The purpose of this repository is to create our own adventure project. This repo
 
 Click [Here]() to begin!  
 
-Click [Here]() to see our Google drawing!
+Click [Here](https://docs.google.com/drawings/d/1Un2aYpdBydbQgefLYYcVBzw-3a734C9dI2hULbr0ips/edit?usp=sharing) to see our Google drawing!
 
 Made by [Samantha Lui](https://github.com/samanthal4752) and [Emmanuel Marcano](https://github.com/emmanuelm8410)
