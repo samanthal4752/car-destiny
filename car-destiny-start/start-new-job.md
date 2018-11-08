@@ -1,2 +1,3 @@
 You start off at Google, a bigger company than your last one. You finally get paid so much more than your last job and get one of the best super cars in the world. You live on rich and have a better lifestyle than the one you had before. For now....
 
+[Start again](car-destiny-md)
