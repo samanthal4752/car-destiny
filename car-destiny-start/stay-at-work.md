@@ -1,6 +1,6 @@
 You got a raise from your boss but you got another job offering from google. 
 
-Good luck at your new job!!
+Good Luck if you are going to work at your new job!
 
 <<<<<<< HEAD
 [Start at google](start.md)
