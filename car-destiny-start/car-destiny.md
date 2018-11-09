@@ -4,4 +4,3 @@ In the morning you wake up late to work, you rush and took a random car key. You
 [Put the seatbelt on](put-on-seatbelt.md)  
 [Play with your windshield wipers](play-with-windshield.md)
 
-[Toyota RAV4](../../images/toyota-rav4.jpg)
